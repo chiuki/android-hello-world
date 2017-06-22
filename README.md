@@ -26,7 +26,7 @@ Explore these topics to deepen your Android knowledge.
 
 ### Navigation
 
-  * [Beyond Single Activity: Intent Fundamentals](http://developer.android.com/guide/components/intents-filters.html)
+  * [Intent Fundamentals](https://www.pluralsight.com/courses/android-fundamentals-intents)
 
 ### UI
 
